@@ -1,0 +1,386 @@
+Lamb, 1, 39.2 kg CO2e to produce 1 kilogram or 2.2 pounds of lamb. In other words, a car driving equivalent of 90.25 miles or 145.25 kilometers, a relatively high carbon footprint.
+Beef, 1, 27 kg CO2e to produce 1 kilogram or 2.2 pounds of beef. In other words, a car driving equivalent of 62.25 miles or 100.25 kilometers, a relatively high carbon footprint.
+Cheese, 2, 13.5 CO2e to produce 1 kilogram or 2.2 pounds of cheese. In other words, a car driving equivalent of 31 miles or 50 kilometers, a relatively high carbon footprint.
+Pork, 1, 12.1 CO2e to produce 1 kilogram or 2.2 pounds of pork. In other words, a car driving equivalent of 27.75 miles or 44.75 kilometers, a relatively high carbon footprint.
+Salmon (farmed), 1, 11.9 CO2e to produce 1 kilogram or 2.2 pounds of farmed salmon. In other words, a car driving equivalent of 27.5 miles or 44.25 kilometers, a relatively high carbon footprint.
+Turkey, 1, 10.9 CO2e to produce 1 kilogram or 2.2 pounds of turkey, a car driving equivalent of 25 miles or 40.25 kilometers. In other words, a relatively high carbon footprint.
+Chicken, 1, 6.9 CO2e to produce 1 kilogram or 2.2 pounds of chicken. In other words, a car driving equivalent of 16 miles or 25.75 kilometers, a relatively high carbon footprint.
+Tuna, 1, canned, 6.1 CO2e to produce 1 kilogram or 2.2 pounds of canned tuna. In other words, a car driving equivalent of 14 miles or 22.5 kilometers, a relatively high carbon footprint.
+Eggs, 2, 4.8 CO2e to produce 1 kilogram or 2.2 pounds of eggs. In other words, a car driving equivalent of 11 miles or 17.75 kilometers, a relatively high carbon footprint.
+Potatoes, 6, 2.9 CO2e to produce 1 kilogram or 2.2 pounds of potatoes. In other words, a car driving equivalent of 6.75 miles or 11 kilometers, a relatively moderate carbon footprint.
+Rice, 7, 2.7 CO2e to produce 1 kilogram or 2.2 pounds of rice. In other words, a car driving equivalent of 6.25 miles or 10 kilometers, a relatively moderate carbon footprint.
+Peanut Butter, 2, 2.5 CO2e to produce 1 kilogram or 2.2 pounds of peanut butter. In other words, a car driving equivalent of 5.75 miles or 9.25 kilometers, a relatively moderate carbon footprint.
+Nuts, 4, 2.3 CO2e to produce 1 kilogram or 2.2 pounds of nuts. In other words, a car driving equivalent of 5.25 miles or 8.5 kilometers, a relatively moderate carbon footprint.
+Yogurt, 2, 2.2 CO2e to produce 1 kilogram or 2.2 pounds of yogurt. In other words, a car driving equivalent of 5.25 miles or 8.5 kilometers, a relatively moderate carbon footprint.
+Broccoli, 6, 2.0 CO2e to produce 1 kilogram or 2.2 pounds of broccoli. In other words, a car driving equivalent of 4.75 miles or 7.75 kilometers, a relatively low carbon footprint.
+Tofu, 2, 2.0 CO2e to produce 1 kilogram or 2.2 pounds of tofu. In other words, a car driving equivalent of 4.75 miles or 7.75 kilometers, a relatively low carbon footprint.
+Beans (dry), 4, 2.0 CO2e to produce 1 kilogram or 2.2 pounds of dry beans. In other words, a car driving equivalent of 4.75 miles or 7.75 kilometers, a relatively low carbon footprint.
+Milk 2%, 2, 1.9 CO2e to produce 1 kilogram or 2.2 pounds of 2% milk. In other words, a car driving equivalent of 4.5 miles or 7.25 kilometers, a relatively low carbon footprint.
+Tomatoes, 6, 1.1 CO2e to produce 1 kilogram or 2.2 pounds of tomatoes. In other words, a car driving equivalent of 2.5 miles or 4 kilometers, a relatively low carbon footprint.
+Lentils, 6, 0.9 CO2e to produce 1 kilogram or 2.2 pounds of lentils. In other words, a car driving equivalent of 2 miles or 3.25 kilometers, a relatively low carbon footprint.
+Beef (ration-fed) (fresh), 1, 44.92 kg CO2e to produce 1 kilogram or 2.2 pounds of ration-fed (fresh) beef. In other words, a car driving equivalent of 103.25 miles or 166 kilometers, a relatively high carbon footprint.
+Lamb (ration-fed) (frozen), 1, 24.89 kg CO2e to produce 1 kilogram or 2.2 pounds of ration-fed (frozen) lamb. In other words, a car driving equivalent of 57.25 miles or 92 kilometers, a relatively high carbon footprint.
+Arctic Char (fish) (farmed) (filleted) (frozen), 1, 18.39 kg CO2e to produce 1 kilogram or 2.2 pounds of farmed (filleted) (frozen) arctic char fish. In other words, a car driving equivalent of 42.25 miles or 68 kilometers, a relatively high carbon footprint.
+Beef (pasture-fed) (frozen), 1, 16.46 kg CO2e to produce 1 kilogram or 2.2 pounds of pasture-fed (frozen) beef. In other words, a car driving equivalent of 38 miles or 61.25 kilometers, a relatively high carbon footprint.
+Pepperoni (frozen), 2, 13.06 kg CO2e to produce 1 kilogram or 2.2 pounds of frozen pepperoni. In other words, a car driving equivalent of 30 miles or 48.25 kilometers, a relatively high carbon footprint.
+Oysters (farmed) (frozen), 2, 11.41 kg CO2e to produce 1 kilogram or 2.2 pounds of farmed (frozen) oysters. In other words, a car driving equivalent of 26.75 miles or 43 kilometers, a relatively high carbon footprint.
+Tilapia (fish) (farmed) (filleted) (frozen), 1, 10.55 kg CO2e to produce 1 kilogram or 2.2 pounds of farmed (filleted) (frozen) tilapia. In other words, a car driving equivalent of 24.25 miles or 39 kilometers, a relatively high carbon footprint.
+Sea Bass (fish) (farmed) (filleted) (frozen), 1, 10.40 kg CO2e to produce 1 kilogram or 2.2 pounds of farmed (filleted) (frozen) sea bass fish. In other words, a car driving equivalent of 24 miles or 38.75 kilometers, a relatively high carbon footprint.
+Cheese (processed) (refrigerated), 2, 9.82 kg CO2e to produce 1 kilogram or 2.2 pounds of processed (refrigerated) cheese. In other words, a car driving equivalent of 22.75 miles or 36.5 kilometers, a relatively high carbon footprint.
+Cheese (natural) (refrigerated), 2, 9.81 kg CO2e to produce 1 kilogram or 2.2 pounds of natural (refrigerated) cheese. In other words, a car driving equivalent of 22.5 miles or 36.25 kilometers, a relatively high carbon footprint.
+Lettuce (greenhouse) (fresh), 6, 9.81 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh (greenhouse) lettuce. In other words, a car driving equivalent of 22.5 miles or 36.25 kilometers, a relatively high carbon footprint.
+Powdered Milk (refrigerated), 2, 9.71 kg CO2e to produce 1 kilogram or 2.2 pounds of refrigerated powdered milk. In other words, a car driving equivalent of 22.25 miles or 35.75 kilometers, a relatively high carbon footprint.
+Silver Carp (fish) (farmed) (filleted) (frozen), 1, 9.54 kg CO2e to produce 1 kilogram or 2.2 pounds of farmed (filleted) (frozen) silver carp fish. In other words, a car driving equivalent of 22 miles or 35.5 kilometers, a relatively high carbon footprint.
+Catfish (farmed) (filleted) (frozen), 1, 9.34 kg CO2e to produce 1 kilogram or 2.2 pounds of farmed (filleted) (frozen) catfish. In other words, a car driving equivalent of 21.5 miles or 34.5 kilometers, a relatively high carbon footprint.
+Sausage (processed) (frozen), 1, 9.34 kg CO2e to produce 1 kilogram or 2.2 pounds of processed (frozen) sausage. In other words, a car driving equivalent of 21.5 miles or 34.5 kilometers, a relatively high carbon footprint.
+Ham (processed) (frozen), 1, 9.31 kg CO2e to produce 1 kilogram or 2.2 pounds of processed (frozen) ham. In other words, a car driving equivalent of 21.5 miles or 34.5 kilometers, a relatively high carbon footprint.
+Orange Juice (processed) (frozen), 7, 7.97 kg CO2e to produce 1 kilogram or 2.2 pounds of processed (frozen) orange juice. In other words, a car driving equivalent of 18.25 miles or 29.5 kilometers, a relatively high carbon footprint.
+Shrimp (farmed) (frozen), 1, 7.05 kg CO2e to produce 1 kilogram or 2.2 pounds of farmed (frozen) shrimp. In other words, a car driving equivalent of 16.25 miles or 26 kilometers, a relatively high carbon footprint.
+Pork, 1, pasture access (frozen),  6.09 kg CO2e to produce 1 kilogram or 2.2 pounds of pasture access (frozen) pork. In other words, a car driving equivalent of 14 miles or 22.5 kilometers, a relatively high carbon footprint.
+Flatfish (frozen), 1, 5.97 kg CO2e to produce 1 kilogram or 2.2 pounds of frozen flatfish. In other words, a car driving equivalent of 13.75 miles or 22 kilometers, a relatively high carbon footprint.
+Chicken, 1, broiler,  small-scale free-range, 5.60 kg CO2e to produce 1 kilogram or 2.2 pounds of broiler, small-scale, free-range chicken. In other words, a car driving equivalent of 12.75 miles or 20.5 kilometers, a relatively high carbon footprint.
+Pork (full confinement) (frozen), 1, 5.45 kg CO2e to produce 1 kilogram or 2.2 pounds of full confinement (frozen) pork. In other words, a car driving equivalent of 12.5 miles or 20 kilometers, a relatively high carbon footprint.
+Lobster (Norway) (frozen), 1, 5.37 kg CO2e to produce 1 kilogram or 2.2 pounds of frozen lobster from Norway. In other words, a car driving equivalent of 12.25 miles or 19.75 kilometers, a relatively high carbon footprint.
+Carp (fish), 1, common (farmed) (frozen),  5.30 kg CO2e to produce 1 kilogram or 2.2 pounds of common (farmed) (frozen) carp fish. In other words, a car driving equivalent of 12.25 miles or 19.75 kilometers, a relatively high carbon footprint.
+Mullet (fish) (farmed) (frozen), 1, 5.30 kg CO2e to produce 1 kilogram or 2.2 pounds of farmed (frozen) mullet fish. In other words, a car driving equivalent of 12.25 miles or 19.75 kilometers, a relatively high carbon footprint.
+Silver Carp (fish) (frozen), 1, 5.30 kg CO2e to produce 1 kilogram or 2.2 pounds of frozen silver carp fish. In other words, a car driving equivalent of 12.25 miles or 19.75 kilometers, a relatively high carbon footprint.
+Tilapia (fish) (farmed) (frozen), 1, 5.30 kg CO2e to produce 1 kilogram or 2.2 pounds of farmed (frozen) tilapia fish. In other words, a car driving equivalent of 12.25 miles or 19.75 kilometers, a relatively high carbon footprint.
+Cod (fish), 1, Atlantic (frozen),  5.25 kg CO2e to produce 1 kilogram or 2.2 pounds of Atlantic (frozen) cod fish. In other words, a car driving equivalent of 12 miles or 19.25 kilometers, a relatively high carbon footprint.
+Sea Bass (fish) (farmed) (frozen), 1, 5.23 kg CO2e to produce 1 kilogram or 2.2 pounds of farmed (frozen) sea bass fish. In other words, a car driving equivalent of 12 miles or 19.25 kilometers, a relatively high carbon footprint.
+Salmon (fish), 1, Atlantic (farmed) (filleted) (frozen), 5.05 kg CO2e to produce 1 kilogram or 2.2 pounds of Atlantic (farmed) (filleted) (frozen) salmon. In other words, a car driving equivalent of 11.5 miles or 18.5 kilometers, a relatively high carbon footprint.
+Catfish (fish) (farmed) (frozen), 1, 4.70 kg CO2e to produce 1 kilogram or 2.2 pounds of farmed (frozen) catfish. In other words, a car driving equivalent of 10.75 miles or 17.25 kilometers, a relatively high carbon footprint.
+Turkey, hens (female), small-scale, 1, confinement (frozen) 4.67 kg CO2e to produce 1 kilogram or 2.2 pounds of small-scale, confinement (frozen) female turkey. In other words, a car driving equivalent of 10.75 miles or 17.25 kilometers, a relatively high carbon footprint.
+Shrimp or Prawn (frozen), 1, 4.57 kg CO2e to produce 1 kilogram or 2.2 pounds of frozen shrimp or prawn. In other words, a car driving equivalent of 10.5 miles or 17 kilometers, a relatively high carbon footprint.
+Mashed Potato Flakes (processed), 6, 4.51 kg CO2e to produce 1 kilogram or 2.2 pounds of processed mashed potato flakes. In other words, a car driving equivalent of 10.5 miles or 17 kilometers, a relatively high carbon footprint.
+Turkey, toms (male), small-scale, 1, confinement (frozen) 4.50 kg CO2e to produce 1 kilogram or 2.2 pounds of small-scale, confinement (frozen) turkey. In other words, a car driving equivalent of 10.5 miles or 17 kilometers, a relatively high carbon footprint.
+Trout (fish) (fresh)water (farmed) (filleted) (frozen), 1, 4.42 kg CO2e to produce 1 kilogram or 2.2 pounds of freshwater (farmed) (filleted) (frozen) trout. In other words, a car driving equivalent of 10.5 miles or 17 kilometers, a relatively high carbon footprint.
+Shrimp, 1, 4.26 kg CO2e to produce 1 kilogram or 2.2 pounds of Malaysian (farmed) (frozen) shrimp or prawns. In other words, a car driving equivalent of 9.75 miles or 15.75 kilometers, a relatively high carbon footprint.
+Tuna (fish), 1, cooked for canning, canned, 4.07 kg CO2e to produce 1 kilogram or 2.2 pounds of cooked for canning and canned tuna fish. In other words, a car driving equivalent of 9.5 miles or 15.25 kilometers, a relatively high carbon footprint.
+Hash Browns, 6, 3.95 kg CO2e to produce 1 kilogram or 2.2 pounds of hash browns. In other words, a car driving equivalent of 9 miles or 14.5 kilometers, a relatively high carbon footprint.
+Sugar, 7, refined, cane (processed), 3.93 kg CO2e to produce 1 kilogram or 2.2 pounds of refined cane sugar. In other words, a car driving equivalent of 9 miles or 14.5 kilometers, a relatively high carbon footprint.
+Peanut Oil (processed), 3, 3.89 kg CO2e to produce 1 kilogram or 2.2 pounds of peanut oil. In other words, a car driving equivalent of 9 miles or 14.5 kilometers, a relatively high carbon footprint.
+Chicken, 1, broiler (large-scale) confinement, 3.73 kg CO2e to produce 1 kilogram or 2.2 pounds of broiler chicken. In other words, a car driving equivalent of 8.5 miles or 14.5 kilometers, a relatively high carbon footprint.
+Almonds (organic) (dry), 4, 3.56 kg CO2e to produce 1 kilogram or 2.2 pounds of organic almonds. In other words, a car driving equivalent of 8.25 miles or 13.25 kilometers, a relatively high carbon footprint.
+Tuna (fish) (filleted) frozen, 1, 3.43 kg CO2e to produce 1 kilogram or 2.2 pounds of filleted (frozen) tuna fish. In other words, a car driving equivalent of 8 miles or 13 kilometers, a relatively high carbon footprint.
+Potato Chips (processed), 7, 3.43 kg CO2e to produce 1 kilogram or 2.2 pounds of potato chips. In other words, a car driving equivalent of 8 miles or 13 kilometers, a relatively high carbon footprint.
+Flatfish (filleted) (frozen), 1, 3.06 kg CO2e to produce 1 kilogram or 2.2 pounds of flatfish. In other words, a car driving equivalent of 7 miles or 11.25 kilometers, a relatively high carbon footprint.
+Sugar, 7, 3.01 kg CO2e to produce 1 kilogram or 2.2 pounds of raw, cane sugar. In other words, a car driving equivalent of 7 miles or 11.25 kilometers, a relatively high carbon footprint.
+Salmon, 1, Atlantic (farmed) (frozen), 2.88 kg CO2e to produce 1 kilogram or 2.2 pounds of salmon. In other words, a car driving equivalent of 6.5 miles or 10.5 kilometers, a relatively moderate carbon footprint.
+Malt Whisky (processed), 7, 2.73 kg CO2e to produce 1 kilogram or 2.2 pounds of malt whiskey. In other words, a car driving equivalent of 6.25 miles or 10 kilometers, a relatively moderate carbon footprint.
+Evaporated Milk (refrigerated), 2, 2.52 kg CO2e to produce 1 kilogram or 2.2 pounds of evaporated milk. In other words, a car driving equivalent of 5.75 miles or 9.25 kilometers, a relatively moderate carbon footprint.
+Coffee (processed), 7, 2.51 kg CO2e to produce 1 kilogram or 2.2 pounds of coffee. In other words, a car driving equivalent of 5.75 miles or 9.25 kilometers, a relatively moderate carbon footprint.
+Trout (fish) (farmed) (frozen), 1, 2.51 kg CO2e to produce 1 kilogram or 2.2 pounds of trout. In other words, a car driving equivalent of 5.75 miles or 9.25 kilometers, a relatively moderate carbon footprint.
+Eggs (large-scale), 2, confinement, free-range, 2.38 kg CO2e to produce 1 kilogram or 2.2 pounds of eggs. In other words, a car driving equivalent of 5.5 miles or 9 kilometers, a relatively moderate carbon footprint.
+Rice (white) (dry), 7, 2.35 kg CO2e to produce 1 kilogram or 2.2 pounds of white rice. In other words, a car driving equivalent of 5.5 miles or 9 kilometers, a relatively moderate carbon footprint.
+Ketchup, 6, 2.25kg CO2e to produce 1 kilogram or 2.2 pounds of ketchup. In other words, a car driving equivalent of 5.25 miles or 8.5 kilometers, a relatively moderate carbon footprint.
+Brown Rice (dry), 7, 2.16 kg CO2e to produce 1 kilogram or 2.2 pounds of brown rice. In other words, a car driving equivalent of 5 miles or 8 kilometers, a relatively moderate carbon footprint.
+Cereal, 7, 2.16 kg CO2e to produce 1 kilogram or 2.2 pounds of toasted cereal breakfast. In other words, a car driving equivalent of 5 miles or 8 kilometers, a relatively moderate carbon footprint.
+Egg, 2, 2.15 kg CO2e to produce 1 kilogram or 2.2 pounds of eggs. In other words, a car driving equivalent of 5 miles or 8 kilometers, a relatively moderate carbon footprint.
+Orange Juice, 5, 2.14 kg CO2e to produce 1 kilogram or 2.2 pounds of orange juice. In other words, a car driving equivalent of 5 miles or 8 kilometers, a relatively moderate carbon footprint.
+Herring, 1, 2.09 kg CO2e to produce 1 kilogram or 2.2 pounds of herring. In other words, a car driving equivalent of 5 miles or 8 kilometers, a relatively moderate carbon footprint.
+Cereal (whole) wheat, 7, breakfast, toasted (processed), 2.08 kg CO2e to produce 1 kilogram or 2.2 pounds of whole wheat toasted breakfast cereal. In other words, a car driving equivalent of 4.75 miles or 7.75 kilometers, a relatively moderate carbon footprint.
+Whey, 7, 2.03 kg CO2e to produce 1 kilogram or 2.2 pounds of whey. In other words, a car driving equivalent of 4.5 miles or 7.25 kilometers, a relatively moderate carbon footprint.
+Tuna (fish), 1, 1.97 kg CO2e to produce 1 kilogram or 2.2 pounds of tuna. In other words, a car driving equivalent of 4.5 miles or 7.25 kilometers, a relatively low carbon footprint.
+Mackerel (filleted) (frozen), 1.92 kg CO2e to produce 1 kilogram or 2.2 pounds of mackerel. In other words, a car driving equivalent of 4.5 miles or 7.25 kilometers, a relatively low carbon footprint.
+Almonds (dry), 4, 1.89 kg CO2e to produce 1 kilogram or 2.2 pounds of almonds. In other words, a car driving equivalent of 4.5 miles or 7 kilometers, a relatively low carbon footprint.
+Eggs (large-scale), 2, confinement, commercial ration, 1.85 kg CO2e to produce 1 kilogram or 2.2 pounds of eggs. In other words, a car driving equivalent of 4.5 miles or 7 kilometers, a relatively low carbon footprint.
+Ice Cream (frozen), 7, 1.82 kg CO2e to produce 1 kilogram or 2.2 pounds of ice cream. In other words, a car driving equivalent of 4.5 miles or 7 kilometers, a relatively low carbon footprint.
+Tomato Paste (processed), 5, 1.82kg CO2e to produce 1 kilogram or 2.2 pounds of tomato paste. In other words, a car driving equivalent of 4.5 miles or 7 kilometers, a relatively low carbon footprint.
+Shortening, solid (processed), 1.80 kg CO2e to produce 1 kilogram or 2.2 pounds of shortening. In other words, a car driving equivalent of 4.5 miles or 7 kilometers, a relatively low carbon footprint.
+Vegetable Oil, 3, partially hydrogenated (processed), 1.79 kg CO2e to produce 1 kilogram or 2.2 pounds of vegetable oil. In other words, a car driving equivalent of 4 miles or 6.5 kilometers, a relatively low carbon footprint.
+Margarine (processed), 1.77 kg CO2e to produce 1 kilogram or 2.2 pounds of margarine. In other words, a car driving equivalent of 4 miles or 6.5 kilometers, a relatively low carbon footprint.
+Cooking Oil, 3, 1.75 kg CO2e to produce 1 kilogram or 2.2 pounds of cooking oil or salad oil. In other words, a car driving equivalent of 4 miles or 6.5 kilometers, a relatively low carbon footprint.
+Soft Drinks (processed), 7, 1.72 kg CO2e to produce 1 kilogram or 2.2 pounds of soft drinks, pop, cola, etc. In other words, a car driving equivalent of 4 miles or 6.5 kilometers, a relatively low carbon footprint.
+Rapeseed Oil (processed), 3, 1.70 kg CO2e to produce 1 kilogram or 2.2 pounds of rapeseed oil. In other words, a car driving equivalent of 4 miles or 6.5 kilometers, a relatively low carbon footprint.
+Canola Oil (processed), 3, 1.70 kg CO2e to produce 1 kilogram or 2.2 pounds of canola oil. In other words, a car driving equivalent of 4 miles or 6.5 kilometers, a relatively low carbon footprint.
+Coffee Beans, 7, 1.66 kg CO2e to produce 1 kilogram or 2.2 pounds of green coffee beans. In other words, a car driving equivalent of 4 miles or 6.5 kilometers, a relatively low carbon footprint.
+Pecans (dry), 1.61 kg CO2e to produce 1 kilogram or 2.2 pounds of pecans. In other words, a car driving equivalent of 3.75 miles or 6.5 kilometers, a relatively low carbon footprint.
+Figs (fresh), 1, 1.54 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh figs. In other words, a car driving equivalent of 3.5 miles or 6 kilometers, a relatively low carbon footprint.
+Cereal, 7 1.54 kg CO2e to produce 1 kilogram or 2.2 pounds of breakfast cereal. In other words, a car driving equivalent of 3.5 miles or 6 kilometers, a relatively low carbon footprint.
+Sunflower Seeds (dry), 5, 0.88 kg CO2e to produce 1 kilogram or 2.2 pounds of dry sunflower seeds. In other words, a car driving equivalent of 2.25 miles or 3.5 kilometers, a relatively low carbon footprint.
+Peanut Butter (processed), 1.53 kg CO2e to produce 1 kilogram or 2.2 pounds of peanut butter. In other words, a car driving equivalent of 3.5 miles or 6 kilometers, a relatively low carbon footprint.
+Soybean Oil (processed), 1.48 kg CO2e to produce 1 kilogram or 2.2 pounds of soybean oil. In other words, a car driving equivalent of 3.5 miles or 6 kilometers, a relatively low carbon footprint.
+Sunflower Oil (processed), 1.48 kg CO2e to produce 1 kilogram or 2.2 pounds of sunflower oil. In other words, a car driving equivalent of 3.5 miles or 6 kilometers, a relatively low carbon footprint.
+Cereal (whole) wheat, breakfast, un-toasted (processed), 1.46 kg CO2e to produce 1 kilogram or 2.2 pounds of wholewheat breakfast cereal. In other words, a car driving equivalent of 3.5 miles or 6 kilometers, a relatively low carbon footprint.
+Pasta (processed), 1.24 kg CO2e to produce 1 kilogram or 2.2 pounds of various pasta. In other words, a car driving equivalent of 2.75 miles or 4.5 kilometers, a relatively low carbon footprint.
+Herring (fish) (filleted) (frozen), 1.23 kg CO2e to produce 1 kilogram or 2.2 pounds of filleted frozen herring. In other words, a car driving equivalent of 2.75 miles or 4.5 kilometers, a relatively low carbon footprint.
+Butter (refrigerated), 1.17 kg CO2e to produce 1 kilogram or 2.2 pounds of butter. In other words, a car driving equivalent of 2.75 miles or 4.5 kilometers, a relatively low carbon footprint.
+Lima Beans, large (dry) 1.14 kg CO2e to produce 1 kilogram or 2.2 pounds of dry lima beans. In other words, a car driving equivalent of 2.75 miles or 4.5 kilometers, a relatively low carbon footprint.
+Mackerel (frozen), 1.14 kg CO2e to produce 1 kilogram or 2.2 pounds of frozen mackerel. In other words, a car driving equivalent of 2.75 miles or 4.5 kilometers, a relatively low carbon footprint.
+Cocoa Butter (processed), 1.13 kg CO2e to produce 1 kilogram or 2.2 pounds of processed cocoa butter. In other words, a car driving equivalent of 2.75 miles or 4.5 kilometers, a relatively low carbon footprint.
+Fish, industrial (frozen), 1.12 kg CO2e to produce 1 kilogram or 2.2 pounds of industrial frozen fish. In other words, a car driving equivalent of 2.75 miles or 4.5 kilometers, a relatively low carbon footprint.
+Pistachios (dry), 1.11 kg CO2e to produce 1 kilogram or 2.2 pounds of pistachios. In other words, a car driving equivalent of 2.5 miles or 4 kilometers, a relatively low carbon footprint.
+Pasta (whole wheat), (processed), 1.05 kg CO2e to produce 1 kilogram or 2.2 pounds of pasta. In other words, a car driving equivalent of 2.5 miles or 4 kilometers, a relatively low carbon footprint.
+Milk (whole), raw 1.02 kg CO2e to produce 1 kilogram or 2.2 pounds of whole raw milk. In other words, a car driving equivalent of 2.5 miles or 4 kilometers, a relatively low carbon footprint.
+Yellow Mustard, 1.00 kg CO2e to produce 1 kilogram or 2.2 pounds of yellow mustard. In other words, a car driving equivalent of 2.5 miles or 4 kilometers, a relatively low carbon footprint.
+Beans, common varieties (dry), 0.95 kg CO2e to produce 1 kilogram or 2.2 pounds of dry beans. In other words, a car driving equivalent of 2.25 miles or 4 kilometers, a relatively low carbon footprint.
+Garlic (fresh), 0.95 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh garlic. In other words, a car driving equivalent of 2.5 miles or 3.5 kilometers, a relatively low carbon footprint.
+Lettuce (romaine hearts), 0.92 kg CO2e to produce 1 kilogram or 2.2 pounds of romaine lettuce. In other words, a car driving equivalent of 2.5 miles or 3.5 kilometers, a relatively low carbon footprint.
+Palm Kernel Oil (processed), 0.91 kg CO2e to produce 1 kilogram or 2.2 pounds of palm kernel oil. In other words, a car driving equivalent of 2.5 miles or 3.5 kilometers, a relatively low carbon footprint.
+Yogurt (refrigerated), 0.90 kg CO2e to produce 1 kilogram or 2.2 pounds of yogurt. In other words, a car driving equivalent of 2.5 miles or 3.5 kilometers, a relatively low carbon footprint.
+Asparagus (fresh), 0.88 kg CO2e to produce 1 kilogram or 2.2 pounds of asparagus. In other words, a car driving equivalent of 2.25 miles or 3.5 kilometers, a relatively low carbon footprint.
+Malted Barley (processed), 0.87 kg CO2e to produce 1 kilogram or 2.2 pounds of processed malted barley. In other words, a car driving equivalent of 2 miles or 3.25 kilometers, a relatively low carbon footprint.
+Bread, Pita (processed), 0.84 kg CO2e to produce 1 kilogram or 2.2 pounds of pita bread. In other words, a car driving equivalent of 2 miles or 3.25 kilometers, a relatively low carbon footprint.
+Blueberries (fresh), 0.83 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh blueberries. In other words, a car driving equivalent of 2 miles or 3.25 kilometers, a relatively low carbon footprint.
+Bread (wheat or whole wheat), 0.83 kg CO2e to produce 1 kilogram or 2.2 pounds of bread. In other words, a car driving equivalent of 2 miles or 3.25 kilometers a relatively low carbon footprint.
+Grapes (fresh), 0.83 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh grapes. In other words, a car driving equivalent of 2 miles or 3.25 kilometers, a relatively low carbon footprint.
+Marinara Sauce (processed), 0.83 kg CO2e to produce 1 kilogram or 2.2 pounds of marinara sauce. In other words, a car driving equivalent of 2 miles or 3.25 kilometers, a relatively low carbon footprint.
+Beans (dry), 0.80 kg CO2e to produce 1 kilogram or 2.2 pounds of dry beans. In other words, a car driving equivalent of 2 miles or 3.25 kilometers, a relatively low carbon footprint.
+Milk (processed) (refrigerated), 0.79 kg CO2e to produce 1 kilogram or 2.2 pounds of milk. In other words, a car driving equivalent of 2 miles or 3.25 kilometers, a relatively low carbon footprint.
+Cherries, sweet (fresh), 0.78 kg CO2e to produce 1 kilogram or 2.2 pounds of sweet cherries. In other words, a car driving equivalent of 1.75 miles or 2.75 kilometers, a relatively low carbon footprint.
+Walnuts, conventional (dry), 0.76 kg CO2e to produce 1 kilogram or 2.2 pounds of dry walnuts. In other words, a car driving equivalent of 1.75 miles or 2.75 kilometers, a relatively low carbon footprint.
+Blueberries (organic) (fresh), 0.73 kg CO2e to produce 1 kilogram or 2.2 pounds of organic blueberries. In other words, a car driving equivalent of 1.75 miles or 2.75 kilometers, a relatively low carbon footprint.
+Dough, Pizza (processed), 0.72 kg CO2e to produce 1 kilogram or 2.2 pounds of pizza dough. In other words, a car driving equivalent of 1.75 miles or 2.75 kilometers, a relatively low carbon footprint.
+Tofu, firm (refrigerated) (processed), 0.72kg CO2e to produce 1 kilogram or 2.2 pounds of tofu. In other words, a car driving equivalent of 1.75 miles or 2.75 kilometers, a relatively low carbon footprint.
+Tofu, firm (organic) (refrigerated) (processed), 0.72kg CO2e to produce 1 kilogram or 2.2 pounds of organic tofu. In other words, a car driving equivalent of 1.75 miles or 2.75 kilometers, a relatively low carbon footprint.
+Soymilk (processed), 0.69 kg CO2e to produce 1 kilogram or 2.2 pounds of processed soy milk. In other words, a car driving equivalent of 1.75 miles or 2.75 kilometers, a relatively low carbon footprint.
+Soymilk (organic) (processed), 0.68 kg CO2e to produce 1 kilogram or 2.2 pounds of organic soy milk. In other words, a car driving equivalent of 1.75 miles or 2.75 kilometers, a relatively low carbon footprint.
+Flour, All Purpose (processed), 0.65 kg CO2e to produce 1 kilogram or 2.2 pounds of all-purpose flour. In other words, a car driving equivalent of 1.5 miles or 2.5 kilometers, a relatively low carbon footprint.
+Chickpeas (Garbanzo Beans), 0.64 kg CO2e to produce 1 kilogram or 2.2 pounds of chickpeas. In other words, a car driving equivalent of 1.5 miles or 2.5 kilometers, a relatively low carbon footprint.
+Wine (processed), 0.64 kg CO2e to produce 1 kilogram or 2.2 pounds of wine. In other words, a car driving equivalent of 1.5 miles or 2.5 kilometers, a relatively low carbon footprint.
+Lima Beans, baby (dry), 0.63 kg CO2e to produce 1 kilogram or 2.2 pounds of dry lima beans. In other words, a car driving equivalent of 1.5 miles or 2.5 kilometers, a relatively low carbon footprint.
+Corn (dry), 0.60 kg CO2e to produce 1 kilogram or 2.2 pounds of dry corn. In other words, a car driving equivalent of 1.5 miles or 2.5 kilometers, a relatively low carbon footprint.
+Cocoa Beans (dry) 0.57 kg CO2e to produce 1 kilogram or 2.2 pounds of cocoa beans. In other words, a car driving equivalent of 1.5 miles or 2.5 kilometers, a relatively low carbon footprint.
+Peanuts (fresh), 0.57 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh peanuts. In other words, a car driving equivalent of 1.5 miles or 2.5 kilometers, a relatively low carbon footprint.
+Black-Eyed Peas (Cowpeas) (dry), 0.56 kg CO2e to produce 1 kilogram or 2.2 pounds of dry black eyed peas. In other words, a car driving equivalent of 1.25 miles or 2 kilometers, a relatively low carbon footprint.
+Flour, bread (processed), 0.56 kg CO2e to produce 1 kilogram or 2.2 pounds of processed bread flour. In other words, a car driving equivalent of 1.25 miles or 2 kilometers, a relatively low carbon footprint.
+Flour (whole) wheat (processed), 0.56 kg CO2e to produce 1 kilogram or 2.2 pounds of whole wheat flour. In other words, a car driving equivalent of 1.25 miles or 2 kilometers, a relatively low carbon footprint.
+Soybeans (organic) and non (dry), 0.56 kg CO2e to produce 1 kilogram or 2.2 pounds of soybeans. In other words, a car driving equivalent of 1.25 miles or 2 kilometers, a relatively low carbon footprint.
+Wheat Bran (processed), 0.56 kg CO2e to produce 1 kilogram or 2.2 pounds of processed wheat bran. In other words, a car driving equivalent of 1.25 miles or 2 kilometers, a relatively low carbon footprint.
+Wheat Germ (processed), 0.56 kg CO2e to produce 1 kilogram or 2.2 pounds of processed wheat germ. In other words, a car driving equivalent of 1.25 miles or 2 kilometers, a relatively low carbon footprint.
+Barley (organic), winter (dry), 0.55 kg CO2e to produce 1 kilogram or 2.2 pounds of dry barley. In other words, a car driving equivalent of 1.25 miles or 2 kilometers, a relatively low carbon footprint.
+Beans (organic) (dry), 0.53 kg CO2e to produce 1 kilogram or 2.2 pounds of dry organic beans. In other words, a car driving equivalent of 1.25 miles or 2 kilometers, a relatively low carbon footprint.
+Lentils (dry), 0.53 kg CO2e to produce 1 kilogram or 2.2 pounds of lentils. In other words, a car driving equivalent of 1.25 miles or 2 kilometers, a relatively low carbon footprint.
+Mussels (farmed) (frozen), 0.53 kg CO2e to produce 1 kilogram or 2.2 pounds of mussels. In other words, a car driving equivalent of 1.25 miles or 2 kilometers, a relatively low carbon footprint.
+Flour, pastry (processed), 0.53 kg CO2e to produce 1 kilogram or 2.2 pounds of processed pastry flour. In other words, a car driving equivalent of 1.25 miles or 2 kilometers, a relatively low carbon footprint.
+Eggplant, American style (fresh), 0.51 kg CO2e to produce 1 kilogram or 2.2 pounds of eggplant. In other words, a car driving equivalent of 1.25 miles or 2 kilometers, a relatively low carbon footprint.
+Prunes, French variety (fresh), 0.50 kg CO2e to produce 1 kilogram or 2.2 pounds of prunes. In other words, a car driving equivalent of 1.25 miles or 2 kilometers, a relatively low carbon footprint.
+Oat Bran (processed), 0.49 kg CO2e to produce 1 kilogram or 2.2 pounds of processed oat bran. In other words, a car driving equivalent of 1.25 miles or 2 kilometers, a relatively low carbon footprint.
+Oatmeal, rolled oat flakes (processed), 0.49 kg CO2e to produce 1 kilogram or 2.2 pounds of oatmeal. In other words, a car driving equivalent of 1.25 miles or 2 kilometers, a relatively low carbon footprint.
+Rice Bran (dry), 0.46 kg CO2e to produce 1 kilogram or 2.2 pounds of dry rice bran. In other words, a car driving equivalent of 1.25 miles or 2 kilometers, a relatively low carbon footprint.
+Pomegranates (fresh), 0.45 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh pomegranates. In other words, a car driving equivalent of 1.25 miles or 2 kilometers, a relatively low carbon footprint.
+Dates, Deglet Noor, Grade B ‘US Choice’ (fresh), 0.44 kg CO2e to produce 1 kilogram or 2.2 pounds of dates. In other words, a car driving equivalent of 1 mile or 1.5 kilometers, a relatively low carbon footprint.
+Green Beans (fresh), 0.44 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh green beans. In other words, a car driving equivalent of 1 mile or 1.5 kilometers, a relatively low carbon footprint.
+Palm Oil (processed), 0.44 kg CO2e to produce 1 kilogram or 2.2 pounds of palm oil. In other words, a car driving equivalent of 1 mile or 1.5 kilometers, a relatively low carbon footprint.
+Wine white-medium (processed), 0.44 kg CO2e to produce 1 kilogram or 2.2 pounds of white wine. In other words, a car driving equivalent of 1 mile or 1.5 kilometers, a relatively low carbon footprint.
+Wine white-premium (processed), 0.44 kg CO2e to produce 1 kilogram or 2.2 pounds of white wine. In other words, a car driving equivalent of 1 mile or 1.5 kilometers, a relatively low carbon footprint.
+Wine red-new (processed), 0.43 kg CO2e to produce 1 kilogram or 2.2 pounds of red wine. In other words, a car driving equivalent of 1 mile or 1.5 kilometers, a relatively low carbon footprint.
+Wine red-premium (processed), 0.43 kg CO2e to produce 1 kilogram or 2.2 pounds of red wine. In other words, a car driving equivalent of 1 mile or 1.5 kilometers, a relatively low carbon footprint.
+Corn (organic) (dry), 0.43 kg CO2e to produce 1 kilogram or 2.2 pounds of dry organic corn. In other words, a car driving equivalent of 1 mile or 1.5 kilometers, a relatively low carbon footprint.
+Rye (organic) (dry), 0.43 kg CO2e to produce 1 kilogram or 2.2 pounds of dry organic rye. In other words, a car driving equivalent of 1 mile or 1.5 kilometers, a relatively low carbon footprint.
+Sweet Potatoes (fresh), 0.43 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh sweet potatoes. In other words, a car driving equivalent of 1 mile or 1.5 kilometers, a relatively low carbon footprint.
+Beer (processed), 0.38 kg CO2e to produce 1 kilogram or 2.2 pounds of processed beer. In other words, a car driving equivalent of 1 mile or 1.5 kilometers, a relatively low carbon footprint.
+Broccoli (fresh), 0.36 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh broccoli. In other words, a car driving equivalent of 0.75 miles or 1.25 kilometers, a relatively low carbon footprint.
+Squash, Summer (fresh), 0.36 kg CO2e to produce 1 kilogram or 2.2 pounds of summer squash. In other words, a car driving equivalent of 0.75 miles or 1.25 kilometers, a relatively low carbon footprint.
+Corn, sweet (dry), 0.35 kg CO2e to produce 1 kilogram or 2.2 pounds of dry sweet corn. In other words, a car driving equivalent of 0.75 miles or 1.25 kilometers, a relatively low carbon footprint.
+Pears (Green Bartlett), 0.34 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh pears. In other words, a car driving equivalent of 0.75 miles or 1.25 kilometers, a relatively low carbon footprint.
+Potatoes (fresh), 0.34 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh potatoes. In other words, a car driving equivalent of 0.75 miles or 1.25 kilometers, a relatively low carbon footprint.
+Spinach (fresh), 0.34 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh spinach. In other words, a car driving equivalent of 0.75 miles or 1.25 kilometers, a relatively low carbon footprint.
+Corn Syrup (processed), 0.33 kg CO2e to produce 1 kilogram or 2.2 pounds of processed corn syrup. In other words, a car driving equivalent of 0.75 miles or 1.25 kilometers, a relatively low carbon footprint.
+Tomatoes (organic) (fresh), 0.33 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh organic tomatoes. In other words, a car driving equivalent of 0.75 miles or 1.25 kilometers, a relatively low carbon footprint.
+Squash, Winter (fresh), 0.31 kg CO2e to produce 1 kilogram or 2.2 pounds of winter squash. In other words, a car driving equivalent of 0.75 miles or 1.25 kilometers, a relatively low carbon footprint.
+Oats (dry), 0.31 kg CO2e to produce 1 kilogram or 2.2 pounds of dry oats. In other words, a car driving equivalent of 0.75 miles or 1.25 kilometers, a relatively low carbon footprint.
+Cauliflower (fresh), 0.31 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh cauliflower. In other words, a car driving equivalent of 0.75 miles or 1.25 kilometers, a relatively low carbon footprint.
+Barley, malting (dry), 0.30 kg CO2e to produce 1 kilogram or 2.2 pounds of dry barley. In other words, a car driving equivalent of 0.75 miles or 1.25 kilometers, a relatively low carbon footprint.
+Onions (fresh), 0.29 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh onions. In other words, a car driving equivalent of 0.75 miles or 1.25 kilometers, a relatively low carbon footprint.
+Peas, spring (fresh), 0.29 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh peas. In other words, a car driving equivalent of 0.75 miles or 1.25 kilometers, a relatively low carbon footprint.
+Blackberries (fresh), 0.28 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh blackberries. In other words, a car driving equivalent of 0.75 miles or 1.25 kilometers, a relatively low carbon footprint.
+Olives, Arbequena (fresh), 0.28 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh olives. In other words, a car driving equivalent of 0.75 miles or 1.25 kilometers, a relatively low carbon footprint.
+Sorghum (dry), 0.28 kg CO2e to produce 1 kilogram or 2.2 pounds of dry sorghum. In other words, a car driving equivalent of 0.75 miles or 1.25 kilometers, a relatively low carbon footprint.
+Bananas (fresh), 0.27 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh bananas. In other words, a car driving equivalent of 0.75 miles or 1.25 kilometers, a relatively low carbon footprint.
+Lettuce (leaf) (organic) (fresh), 0.27 kg CO2e to produce 1 kilogram or 2.2 pounds of organic fresh lettuce. In other words, a car driving equivalent of 0.75 miles or 1.25 kilometers, a relatively low carbon footprint.
+Onions (red) (fresh), 0.27 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh red onions. In other words, a car driving equivalent of 0.75 miles or 1.25 kilometers, a relatively low carbon footprint.
+Raspberries (fresh), 0.27 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh raspberries. In other words, a car driving equivalent of 0.75 miles or 1.25 kilometers, a relatively low carbon footprint.
+Strawberries (fresh), 0.27 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh strawberries. In other words, a car driving equivalent of 0.75 miles or 1.25 kilometers, a relatively low carbon footprint.
+Artichokes (fresh), 0.26 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh artichokes. In other words, a car driving equivalent of 0.5 miles or 0.8 kilometers, a relatively low carbon footprint.
+Bell Peppers (fresh), 0.26 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh bell peppers, a car driving equivalent of 0.5 miles or 0.75 kilometers, a relatively low carbon footprint.
+Brussels Sprouts (fresh), 0.26 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh Brussels sprouts, a car driving equivalent of 0.5 miles or 0.75 kilometers, a relatively low carbon footprint.
+Cottage Cheese (refrigerated), 0.26 kg CO2e to produce 1 kilogram or 2.2 pounds of cottage cheese, a car driving equivalent of 0.5 miles or 0.75 kilometers, a relatively low carbon footprint.
+Wheat, Spring (dry), 0.26 kg CO2e to produce 1 kilogram or 2.2 pounds of dry spring wheat, a car driving equivalent of 0.5 miles or 0.75 kilometers, a relatively low carbon footprint.
+Corn Oil (processed), 0.25 kg CO2e to produce 1 kilogram or 2.2 pounds of processed corn oil, a car driving equivalent of 0.5 miles or 0.75 kilometers, a relatively low carbon footprint.
+Okra (fresh), 0.25 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh okra, a car driving equivalent of 0.5 miles or 0.75 kilometers, a relatively low carbon footprint.
+Rye (dry), 0.25 kg CO2e to produce 1 kilogram or 2.2 pounds of dry rye, a car driving equivalent of 0.5 miles or 0.75 kilometers, a relatively low carbon footprint.
+Cherries (fresh), 0.24 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh cherries, a car driving equivalent of 0.5 miles or 0.75 kilometers, a relatively low carbon footprint.
+Apples (fresh), 0.23 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh apples, a car driving equivalent of 0.5 miles or 0.75 kilometers, a relatively low carbon footprint.
+Apricots (fresh), 0.23 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh apricots, a car driving equivalent of 0.5 miles or 0.75 kilometers, a relatively low carbon footprint.
+Strawberries (organic) (fresh), 0.23 kg CO2e to produce 1 kilogram or 2.2 pounds of organic strawberries, a car driving equivalent of 0.5 miles or 0.75 kilometers, a relatively low carbon footprint.
+Tomatoes (fresh), 0.23 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh tomatoes, a car driving equivalent of 0.5 miles or 0.75 kilometers, a relatively low carbon footprint.
+Nectarines (fresh), 0.22 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh nectarines, a car driving equivalent of 0.5 miles or 0.75 kilometers, a relatively low carbon footprint.
+Sale (processed), 0.22kg CO2e to produce 1 kilogram or 2.2 pounds of processed sale, a car driving equivalent of 0.5 miles or 0.75 kilometers, a relatively low carbon footprint.
+Sour Cream (refrigerated), 0.22 kg CO2e to produce 1 kilogram or 2.2 pounds of sour cream, a car driving equivalent of 0.5 miles or 0.75 kilometers, a relatively low carbon footprint.
+Peaches (fresh), 0.22 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh peaches, a car driving equivalent of 0.5 miles or 0.75 kilometers, a relatively low carbon footprint.
+Plums (fresh), 0.22 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh plums, a car driving equivalent of 0.5 miles or 0.75 kilometers, a relatively low carbon footprint.
+Pomelo, specialty (fresh), 0.22 kg CO2e to produce 1 kilogram or 2.2 pounds of pomelos, a car driving equivalent of 0.5 miles or 0.75 kilometers, a relatively low carbon footprint.
+Wheat, Winter (dry), 0.22 kg CO2e to produce 1 kilogram or 2.2 pounds of dry winter wheat, a car driving equivalent of 0.5 miles or 0.75 kilometers, a relatively low carbon footprint.
+Mandarin Oranges, Satsuma (fresh), 0.21 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh mandarins, a car driving equivalent of 0.5 miles or 0.75 kilometers, a relatively low carbon footprint.
+Boysenberries (fresh), 0.20 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh boysenberries, a car driving equivalent of 0.5 miles or 0.75 kilometers, a relatively low carbon footprint.
+Cilantro (fresh), 0.20 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh cilantro, a car driving equivalent of 0.5 miles or 0.75 kilometers, a relatively low carbon footprint.
+Cocoa Powder (processed), 0.20 kg CO2e to produce 1 kilogram or 2.2 pounds of processed cocoa powder, a car driving equivalent of 0.5 miles or 0.75 kilometers, a relatively low carbon footprint.
+Apples (organic), 0.19 kg CO2e to produce 1 kilogram or 2.2 pounds of organic apples, a car driving equivalent of 0.5 miles or 0.75 kilometers, a relatively low carbon footprint.
+Lettuce (Iceberg)(fresh), 0.19 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh, iceberg lettuce, a car driving equivalent of 0.5 miles or 0.75 kilometers, a relatively low carbon footprint.
+Olives (Manzanillo)(fresh), 0.19 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh olives, a car driving equivalent of 0.5 miles or 0.75 kilometers, a relatively low carbon footprint.
+Dates (Deglet Noor), Grade C ‘US Choice’ (fresh), 0.18 kg CO2e to produce 1 kilogram or 2.2 pounds of dates, a car driving equivalent of 0.5 miles or 0.75 kilometers, a relatively low carbon footprint.
+Blood Oranges (fresh), 0.17 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh blood oranges, a car driving equivalent of 0.5 miles or 0.75 kilometers, a relatively low carbon footprint.
+Radishes, Daikon (fresh), 0.16 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh radishes, a car driving equivalent of 0.5 miles or 0.75 kilometers, a relatively low carbon footprint.
+Guava (Tropical Pink) (fresh), 0.15 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh guava, a car driving equivalent of 0.5 miles or 0.75 kilometers, a relatively low carbon footprint.
+Parsley (fresh), 0.15 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh parsley, a car driving equivalent of 0.5 miles or 0.75 kilometers, a relatively low carbon footprint.
+Cream (whipped), fluid (refrigerated), 0.14 kg CO2e to produce 1 kilogram or 2.2 pounds of whipped cream, a car driving equivalent of 0.5 miles or 0.75 kilometers, a relatively low carbon footprint.
+Cantaloupe (fresh), 0.14 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh cantaloupe, a car driving equivalent of 0.5 miles or 0.75 kilometers, a relatively low carbon footprint.
+Cucumbers (fresh), 0.14 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh cucumbers, a car driving equivalent of 0.5 miles or 0.75 kilometers, a relatively low carbon footprint.
+Melons (fresh), 0.14 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh melons, a car driving equivalent of 0.5 miles or 0.75 kilometers, a relatively low carbon footprint.
+Honeydew Melon (fresh), 0.14 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh honeydew melon, a car driving equivalent of 0.5 miles or 0.75 kilometers, a relatively low carbon footprint.
+Watermelon (fresh), 0.14 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh watermelon, a car driving equivalent of 0.5 miles or 0.75 kilometers, a relatively low carbon footprint.
+Pears (specialty fresh), 0.14 kg CO2e to produce 1 kilogram or 2.2 pounds of specialty fresh pears, a car driving equivalent of 0.5 miles or 0.75 kilometers, a relatively low carbon footprint.
+Pumpkins (fresh), 0.14 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh pumpkins, a car driving equivalent of 0.5 miles or 0.75 kilometers, a relatively low carbon footprint.
+Lettuce (crisp head), 0.13 kg CO2e to produce 1 kilogram or 2.2 pounds of crisp head (fresh) lettuce, a car driving equivalent of 0.25 miles or 0.5 kilometers, a relatively low carbon footprint.
+Oranges (Naval or Valencias), 0.13 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh oranges, a car driving equivalent of 0.25 miles or 0.5 kilometers, a relatively low carbon footprint.
+Bitter Melon (fresh), 0.12 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh bitter melon, a car driving equivalent of 0.25 miles or 0.5 kilometers, a relatively low carbon footprint.
+Cabbage (fresh), 0.12 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh cabbage, a car driving equivalent of 0.25 miles or 0.5 kilometers, a relatively low carbon footprint.
+Celery (fresh), 0.12 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh celery, a car driving equivalent of 0.25 miles or 0.5 kilometers, a relatively low carbon footprint.
+Carrots (fresh), 0.11 kg CO2e to produce 1 kilogram or 2.2 pounds of carrots, a car driving equivalent of 0.25 miles or 0.5 kilometers, a relatively low carbon footprint.
+Chinese Cabbage (fresh), 0.09 kg CO2e to produce 1 kilogram or 2.2 pounds of Chinese cabbage, a car driving equivalent of 0.25 miles or 0.5 kilometers, a relatively low carbon footprint.
+Eggplant, Asian style (fresh), 0.09 kg CO2e to produce 1 kilogram or 2.2 pounds of eggplant, a car driving equivalent of 0.25 miles or 0.5 kilometers, a relatively low carbon footprint.
+Lemons, Lisbon variety (fresh), 0.09 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh lemons, a car driving equivalent of 0.25 miles or 0.5 kilometers, a relatively low carbon footprint.
+Lettuce, loose-leaf (fresh), 0.08 kg CO2e to produce 1 kilogram or 2.2 pounds of looseleaf (fresh) lettuce, a car driving equivalent of 0.25 miles or 0.5 kilometers, a relatively low carbon footprint.
+Pineapple (fresh), 0.08 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh pineapple, a car driving equivalent of 0.25 miles or 0.5 kilometers, a relatively low carbon footprint.
+Onions (fresh), 0.08 kg CO2e to produce 1 kilogram or 2.2 pounds of onions, a car driving equivalent of 0.25 miles or 0.5 kilometers, a relatively low carbon footprint.
+Mangos (organic) (fresh), 0.07 kg CO2e to produce 1 kilogram or 2.2 pounds of mangos, a car driving equivalent of 0.25 miles or 0.5 kilometers, a relatively low carbon footprint.
+Lemongrass (fresh), 0.07 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh lemongrass, a car driving equivalent of 0.25 miles or 0.5 kilometers, a relatively low carbon footprint.
+Tomatoes, cherry (fresh), 0.07 kg CO2e to produce 1 kilogram or 2.2 pounds of cherry tomatoes, a car driving equivalent of 0.25 miles or 0.5 kilometers, a relatively low carbon footprint.
+Beets, Sugar beets (fresh), 0.05 kg CO2e to produce 1 kilogram or 2.2 pounds of beets, a car driving equivalent of 0.25 miles or 0.5 kilometers, a relatively low carbon footprint.
+Sugarcane (fresh), 0.04 kg CO2e to produce 1 kilogram or 2.2 pounds of fresh sugarcane, a car driving equivalent of 0.25 miles or 0.5 kilometers, a relatively low carbon footprint.
+Mushrooms, Portabella or button (fresh), 0.00 kg CO2e to produce 1 kilogram or 2.2 pounds of mushrooms, a car driving equivalent of 0 miles or 0 kilometers, a relatively low carbon footprint.
+Beef (Bovine Meat), 68.8 kg CO2e to produce 1 kilogram or 2.2 pounds of beef, a car driving equivalent of 158 miles or 254 kilometers, a relatively high carbon footprint.
+Mutton and Goat Meat, 64.2 kg CO2e to produce 1 kilogram or 2.2 pounds of mutton and goat meat, a car driving equivalent of 147.5 miles or 237 kilometers, a relatively high carbon footprint.
+Animal Fats, 40.1 kg CO2e to produce 1 kilogram or 2.2 pounds of animal fats, a car driving equivalent of 92.5 miles or 149 kilometers, a relatively high carbon footprint.
+Meat, 35.9 kg CO2e to produce 1 kilogram or 2.2 pounds of most meat, a car driving equivalent of 82.5 miles or 133 kilometers, a relatively high carbon footprint.
+Offals (internal organs, entrails), 35.9 kg CO2e to produce 1 kilogram or 2.2 pounds of offals, a car driving equivalent of 82.5 miles or 133 kilometers, a relatively high carbon footprint.
+Meat, Other, 35.7 kg CO2e to produce 1 kilogram or 2.2 pounds of other meat, a car driving equivalent of 82.5 miles or 133 kilometers, a relatively high carbon footprint.
+Animal Fats, Raw, 35.6 kg CO2e to produce 1 kilogram or 2.2 pounds of raw animal fats, a car driving equivalent of 82.5 miles or 133 kilometers, a relatively high carbon footprint.
+Coffee, 10.1 kg CO2e to produce 1 kilogram or 2.2 pounds of coffee, a car driving equivalent of 23.35 miles or 37.5 kilometers, a relatively high carbon footprint.
+Pig Meat, 7.9 kg CO2e to produce 1 kilogram or 2.2 pounds of pig meat, a car driving equivalent of 18.25 miles or 29.5 kilometers, a relatively high carbon footprint.
+Poultry Meat (Chicken, Turkey, etc.), 5.4 kg CO2e to produce 1 kilogram or 2.2 pounds of poultry meat, a car driving equivalent of 12.5 miles or 20 kilometers, a relatively high carbon footprint
+Cephalopods (Squid, Octopus, etc.), 5.4 kg CO2e to produce 1 kilogram or 2.2 pounds of cephalopod seafood, a car driving equivalent of 12.5 miles or 20 kilometers, a relatively high carbon footprint
+Crustaceans (Crab, Lobster, Shrimp, etc.), 5.4 kg CO2e to produce 1 kilogram or 2.2 pounds of crustacean seafood, a car driving equivalent of 12.5 miles or 20 kilometers, a relatively high carbon footprint
+Demersal Fish, 5.4 kg CO2e to produce 1 kilogram or 2.2 pounds of demersal fish seafood, a car driving equivalent of 12.5 miles or 20 kilometers, a relatively high carbon footprint
+Fish, Seafood, 5.4 kg CO2e to produce 1 kilogram or 2.2 pounds of seafood fish, a car driving equivalent of 12.5 miles or 20 kilometers, a relatively high carbon footprint
+Freshwater Fish, 5.4 kg CO2e to produce 1 kilogram or 2.2 pounds of freshwater fish, a car driving equivalent of 12.5 miles or 20 kilometers, a relatively high carbon footprint
+Marine Fish, Other, 5.4 kg CO2e to produce 1 kilogram or 2.2 pounds of other marine fish, a car driving equivalent of 12.5 miles or 20 kilometers, a relatively high carbon footprint
+Pelagic Fish, 5.4 kg CO2e to produce 1 kilogram or 2.2 pounds of pelagic fish, a car driving equivalent of 12.5 miles or 20 kilometers, a relatively high carbon footprint
+Eggs, 4.9 kg CO2e to produce 1 kilogram or 2.2 pounds of eggs, a car driving equivalent of 11.25 miles or 18 kilometers, a relatively high carbon footprint
+Olive Oil, 4.5 kg CO2e to produce 1 kilogram or 2.2 pounds of olive oil, a car driving equivalent of 10.25 miles or 16.5 kilometers, a relatively high carbon footprint
+Olives, 4.5 kg CO2e to produce 1 kilogram or 2.2 pounds of olives, a car driving equivalent of 10.25 miles or 16.5 kilometers, a relatively high carbon footprint
+Sesame Seeds, 4.2 kg CO2e to produce 1 kilogram or 2.2 pounds of sesame seeds, a car driving equivalent of 9.75 miles or 15.75 kilometers, a relatively high carbon footprint
+Sesame Oil, 4.2 kg CO2e to produce 1 kilogram or 2.2 pounds of sesame seed oil, a car driving equivalent of 9.75 miles or 15.75 kilometers, a relatively high carbon footprint
+Rice (Milled Equivalent), 3.9 kg CO2e to produce 1 kilogram or 2.2 pounds of rice, a car driving equivalent of 9 miles or 14.5 kilometers, a relatively high carbon footprint
+Barley, 3.8 kg CO2e to produce 1 kilogram or 2.2 pounds of barley, a car driving equivalent of 9 miles or 14.5 kilometers, a relatively high carbon footprint
+Beer, 3.8 kg CO2e to produce 1 kilogram or 2.2 pounds of beer, a car driving equivalent of 9 miles or 14.5 kilometers, a relatively high carbon footprint
+Pulses and Legumes (includes alfalfa, clover, lupins, mesquite, carob, tamarind) 3.5 kg CO2e to produce 1 kilogram or 2.2 pounds of pulses and legumes, a car driving equivalent of 8.75 miles or 14 kilometers, a relatively high carbon footprint
+Beverages (Alcoholic), 3.5-3.3 kg CO2e to produce 1 kilogram or 2.2 pounds of alcoholic beverages, a car driving equivalent of 8.75 miles or 14 kilometers, a relatively high carbon footprint
+Cocoa Beans, 3.4 kg CO2e to produce 1 kilogram or 2.2 pounds of cocoa beans, a car driving equivalent of 7.75 miles or 12.5 kilometers, a relatively high carbon footprint
+Palm Oil, 3.3 kg CO2e to produce 1 kilogram or 2.2 pounds of palm oil, a car driving equivalent of 7.75 miles or 12.5 kilometers, a relatively high carbon footprint
+Pulses, 3.3 kg CO2e to produce 1 kilogram or 2.2 pounds of pulses, a car driving equivalent of 7.75 miles or 12.5 kilometers, a relatively high carbon footprint
+Sunflower Seed Oil, 3.3 kg CO2e to produce 1 kilogram or 2.2 pounds of sunflower seed oil, a car driving equivalent of 7.75 miles or 12.5 kilometers, a relatively high carbon footprint
+Pimento, 3.2 kg CO2e to produce 1 kilogram or 2.2 pounds of pimento, a car driving equivalent of 7.5 miles or 12 kilometers, a relatively high carbon footprint
+Vegetable Oils, 3.2 kg CO2e to produce 1 kilogram or 2.2 pounds of vegetable oil, a car driving equivalent of 7.5 miles or 12 kilometers, a relatively high carbon footprint
+Rape Oil and Mustard Oil, 2.9 kg CO2e to produce 1 kilogram or 2.2 pounds of rapeseed oil or mustard oil, a car driving equivalent of 6.75 miles or 11 kilometers, a relatively moderate carbon footprint
+Rape and Mustard Seed, 2.9 kg CO2e to produce 1 kilogram or 2.2 pounds of rapeseeds and mustard seeds, a car driving equivalent of 6.75 miles or 11 kilometers, a relatively moderate carbon footprint
+Pepper, 2.5 kg CO2e to produce 1 kilogram or 2.2 pounds of pepper, a car driving equivalent of 5.75 miles or 9.25 kilometers, a relatively moderate carbon footprint
+Beverages (Fermented), 2.4 kg CO2e to produce 1 kilogram or 2.2 pounds of fermented beverages, a car driving equivalent of 5.75 miles or 9.25 kilometers, a relatively moderate carbon footprint
+Cream, 2.4 kg CO2e to produce 1 kilogram or 2.2 pounds of cream, a car driving equivalent of 5.75 miles or 9.25 kilometers, a relatively moderate carbon footprint
+Oil Crops Oil, Other, 2.4-2.3kg CO2e to produce 1 kilogram or 2.2 pounds of other oil crops, a car driving equivalent of 5.75 miles or 9.25 kilometers, a relatively moderate carbon footprint
+Coconut Oil, 2.1 kg CO2e to produce 1 kilogram or 2.2 pounds of coconut oil, a car driving equivalent of 5 miles or 8 kilometers, a relatively moderate carbon footprint
+Coconuts, 2.1 kg CO2e to produce 1 kilogram or 2.2 pounds of coconuts, a car driving equivalent of 5 miles or 8 kilometers, a relatively moderate carbon footprint
+Soybeans, 2.0 kg CO2e to produce 1 kilogram or 2.2 pounds of soybeans, a car driving equivalent of 5 miles or 8 kilometers, a relatively low carbon footprint
+Tree Nuts (Cashews, Walnuts, etc.) 2.0 kg CO2e to produce 1 kilogram or 2.2 pounds of tree nuts, a car driving equivalent of 5 miles or 8 kilometers, a relatively low carbon footprint
+Pineapple, 1.9 kg CO2e to produce 1 kilogram or 2.2 pounds of pineapple, a car driving equivalent of 4.5 miles or 7.25 kilometers, a relatively low carbon footprint
+Tea, 1.9 kg CO2e to produce 1 kilogram or 2.2 pounds of tea, a car driving equivalent of 4.5 miles or 7.25 kilometers, a relatively low carbon footprint
+Milk – Excluding Butter, 1.8 kg CO2e to produce 1 kilogram or 2.2 pounds of milk, a car driving equivalent of 4.25 miles or 6.75 kilometers, a relatively low carbon footprint
+Butter, Ghee, 1.8 kg CO2e to produce 1 kilogram or 2.2 pounds of butter or ghee. In other words, a car driving equivalent of 4.25 miles or 6.75 kilometers, a relatively low carbon footprint.
+Cereals – Excluding Beer, 1.8 kg CO2e to produce 1 kilogram or 2.2 pounds of cereals. In other words, a car driving equivalent of 4.25 miles or 6.75 kilometers, a relatively low carbon footprint.
+Oil Crops, 1.8 kg CO2e to produce 1 kilogram or 2.2 pounds of oil crops. In other words, a car driving equivalent of 4.25 miles or 6.75 kilometers, a relatively low carbon footprint.
+Soybean Oil, 1.8 kg CO2e to produce 1 kilogram or 2.2 pounds of soybean oil. In other words, a car driving equivalent of 4.25 miles or 6.75 kilometers, a relatively low carbon footprint.
+Plantains, 1.6 kg CO2e to produce 1 kilogram or 2.2 pounds of plantains. In other words, a car driving equivalent of 3.75 miles or 6 kilometers, a relatively low carbon footprint.
+Spices, 1.6 kg CO2e to produce 1 kilogram or 2.2 pounds of spices. In other words, a car driving equivalent of 3.75 miles or 6 kilometers, a relatively low carbon footprint.
+Vegetables, 1.6 kg CO2e to produce 1 kilogram or 2.2 pounds of vegetables. In other words, a car driving equivalent of 3.75 miles or 6 kilometers, a relatively low carbon footprint.
+Tomatoes, 1.5 kg CO2e to produce 1 kilogram or 2.2 pounds of tomatoes. In other words, a car driving equivalent of 3.5 miles or 5.5 kilometers, a relatively low carbon footprint.
+Groundnuts (Shelled), 1.4 kg CO2e to produce 1 kilogram or 2.2 pounds of shelled groundnuts. In other words, a car driving equivalent of 3.25 miles or 5.25 kilometers, a relatively low carbon footprint.
+Bananas, 1.4 kg CO2e to produce 1 kilogram or 2.2 pounds of bananas. In other words, a car driving equivalent of 3.25 miles or 5.25 kilometers, a relatively low carbon footprint.
+Peas, 1.2 kg CO2e to produce 1 kilogram or 2.2 pounds of peas. In other words, a car driving equivalent of 2.75 miles or 4.5 kilometers, a relatively low carbon footprint.
+Dates, 1.1 kg CO2e to produce 1 kilogram or 2.2 pounds of dates. In other words, a car driving equivalent of 2.75 miles or 4.5 kilometers, a relatively low carbon footprint.
+Honey, 1.0 kg CO2e to produce 1 kilogram or 2.2 pounds of honey. In other words, a car driving equivalent of 2.5 miles or 4 kilometers, a relatively low carbon footprint.
+Oats, 1.0 kg CO2e to produce 1 kilogram or 2.2 pounds of oats. In other words, a car driving equivalent of 2.5 miles or 4 kilometers, a relatively low carbon footprint.
+Rye, 1.0 kg CO2e to produce 1 kilogram or 2.2 pounds of rye. In other words, a car driving equivalent of 2.5 miles or 4 kilometers, a relatively low carbon footprint.
+Wheat, 1.0 kg CO2e to produce 1 kilogram or 2.2 pounds of wheat. In other words, a car driving equivalent of 2.5 miles or 4 kilometers, a relatively low carbon footprint.
+Wine, 1.0 kg CO2e to produce 1 kilogram or 2.2 pounds of wine. In other words, a car driving equivalent of 2.5 miles or 4 kilometers, a relatively low carbon footprint.
+Fruits, Excluding Wine, 0.9 kg CO2e to produce 1 kilogram or 2.2 pounds of fruits. In other words, a car driving equivalent of 2 miles or 3.25 kilometers, a relatively low carbon footprint.
+Groundnut Oil, 0.9 kg CO2e to produce 1 kilogram or 2.2 pounds of groundnut oil. In other words, a car driving equivalent of 2 miles or 3.25 kilometers, a relatively low carbon footprint.
+Beans, 0.8 kg CO2e to produce 1 kilogram or 2.2 pounds of beans. In other words, a relatively low carbon footprint, a car driving equivalent of 2 miles or 3.25 kilometers, a relatively low carbon footprint.
+Grapefruit, 0.8 kg CO2e to produce 1 kilogram or 2.2 pounds of grapefruit. In other words, a car driving equivalent of 2 miles or 3.25 kilometers, a relatively low carbon footprint.
+Grapes, 0.8 kg CO2e to produce 1 kilogram or 2.2 pounds of grapes. In other words, a car driving equivalent of 2 miles or 3.25 kilometers, a relatively low carbon footprint.
+Apples, 0.7 kg CO2e to produce 1 kilogram or 2.2 pounds of apples. In other words, a car driving equivalent of 1.75 miles or 2.75 kilometers, a relatively low carbon footprint.
+Citrus, Other, 0.7 kg CO2e to produce 1 kilogram or 2.2 pounds of citrus. In other words, a car driving equivalent of 1.75 miles or 2.75 kilometers, a relatively low carbon footprint.
+Maize, 0.7 kg CO2e to produce 1 kilogram or 2.2 pounds of maize. In other words, a car driving equivalent of 1.75 miles or 2.75 kilometers, a relatively low carbon footprint.
+Lemons, 0.6 kg CO2e to produce 1 kilogram or 2.2 pounds of lemons. In other words, a car driving equivalent of 1.5 miles or 2.5 kilometers, a relatively low carbon footprint.
+Limes, 0.6 kg CO2e to produce 1 kilogram or 2.2 pounds of limes. In other words, a car driving equivalent of 1.5 miles or 2.5 kilometers, a relatively low carbon footprint.
+Oranges (Mandarins), 0.6 kg CO2e to produce 1 kilogram or 2.2 pounds of oranges or mandarins. In other words, a car driving equivalent of 1.5 miles or 2.5 kilometers, a relatively low carbon footprint.
+Onions, 0.5 kg CO2e to produce 1 kilogram or 2.2 pounds of onions. In other words, a car driving equivalent of 1.25 miles or 2 kilometers, a relatively low carbon footprint.
+Maize Germ Oil, 0.4 kg CO2e to produce 1 kilogram or 2.2 pounds of maize germ oil. In other words, a car driving equivalent of 1 miles or 1.5 kilometers, a relatively low carbon footprint.
+Potatoes, 0.4 kg CO2e to produce 1 kilogram or 2.2 pounds of potatoes. In other words, a car driving equivalent of 1 miles or 1.5 kilometers, a relatively low carbon footprint.
+Starchy Roots (Parsnips, Turnips, Jicama, etc.) 0.4 kg CO2e to produce 1 kilogram or 2.2 pounds of starchy roots. In other words, a car driving equivalent of 1 miles or 1.5 kilometers, a relatively low carbon footprint.
+Sugar and Sweeteners, 0.1 kg CO2e to produce 1 kilogram or 2.2 pounds of sugar and sweeteners. In other words, a car driving equivalent of .25 miles or .5 kilometers, a relatively low carbon footprint.
+Sugar (Raw Equivalent), 0.1 kg CO2e to produce 1 kilogram or 2.2 pounds of raw sugar. In other words, a car driving equivalent of .25 miles or .5 kilometers, a relatively low carbon footprint.
+Aquatic Plants, 0.0 kg CO2e to produce 1 kilogram or 2.2 pounds of aquatic plants. In other words, a car driving equivalent of .0 miles or .0 kilometers, a relatively low carbon footprint.
+Mollusks, 0.0 kg CO2e to produce 1 kilogram or 2.2 pounds of mollusks. In other words, a car driving equivalent of .0 miles or .0 kilometers, a relatively low carbon footprint.
+1 Apple grown from your own garden, 0 kg CO2e.
+1 Local / Seasonal Apple, 0.01 kg CO2e.
+Apple, 0.08 kg CO2e, average, 1 apple.
+Average, Apple, 0.55 kg CO2e, 1 kg portion.
+Apple, 0.15 kg CO2e, shipped, cold stored, inefficiently produced, 1 apple.
+Local / Seasonal Asparagus, bunch, 0.125 kg CO2e, 250g sized pack.
+Asparagus (New York), bunch, 1.9 kg CO2e, air frighted from Peru to New York in January, 250g sized pack.
+Asparagus (the UK), bunch, 3.5 kg CO2e, air frighted from Peru to the UK in January, 250g sized pack
+Banana (1 piece), 0.08 kg CO2e, imported from the other side of the world, 1 banana
+Banana (1 kg portion), 0.48 kg CO2e, imported from the other side of the world, 1 kg portion
+Beef, 17 kg CO2e, 1 kg portion
+Black Tea, mug, 0.023 kg CO2e, boiling only what you need
+Black Tea with milk, mug, 0.055 kg CO2e, boiling only what you need
+Burger (veggie), 1 kg CO2e
+Cheese Burger, 2.5 kg CO2e, cheese burger, sized 4 oz.
+Cappuccino, large, 0.236 kg CO2e
+Locally grown, Carrots, 0.25 kg CO2e, in season, 1 kg portion
+Carrots (average), 0.3 kg CO2e, average, 1 kg portion
+Carrots (baby carrots), 1 kg CO2e, shipped baby carrots, 1 kg portion
+Cheese (hard), 12 kg CO2e, 1 kg portion
+Cheese (average), 13 kg CO2e, 1 kg portion
+Fish, Cod, 2.8 kg CO2e (frozen) fillet at the factory gate, 1 kg portion
+Cod (fish), 3.2 kg CO2e (frozen) at the checkout, 1 kg portion
+Coffee, mug, 0.023 kg CO2e, boiling only what you need
+Coffee with milk, mug 0.055 kg CO2e, boiling only what you need
+Eggs, carton, 3.6 kg CO2e, dozen eggs
+Fish (fresh), 2.6 kg CO2e (fresh)ly landed, 1 kg portion
+Fish (fronzen), 6.5 kg CO2e (frozen) (filleted), 1 kg portion
+Herring (fish), 1.3 kg CO2e (fresh) fillet at the factory gate, 1 kg portion
+Lamb (leg), 38 kg CO2e, at the checkout, 2 kg portion
+Latte (large), 0.343 kg CO2e
+Oats and water only, Porridge, bowl, 0.082 kg CO2e
+Porridge (half milk), 0.3 kg CO2e
+Porridge (milky and sweet)0.55 kg CO2e
+Rice (efficiently produced), 2.5 kg CO2e
+Rice (average), 4 kg CO2e
+Rice (inefficient production), 6.1 kg CO2e
+Mackerel (fish), 0.5 kg CO2e (fresh) fillet at the factory gate, 1 kg portion
+Milk, 1.3 kg CO2e, per liter or quart
+Orange, 0.5 kg CO2e, shipped 2,000 miles by boat and 500 miles by truck, 1 kg portion
+Shellfish, 2.6 kg CO2e, unprocessed (fresh)ly landed, 1 kg portion
+Shrimp, 10.1 kg CO2e, peeled and frozen, at the factory gate, 1 kg portion
+Steak, 2 kg CO2e, raw beefsteak, 4oz. serving
+Strawberries, 1.8 kg CO2e, grown out of season and flown in or grown locally in a hothouse, 1 kg portion
+Organic, loose, Tomatoes, 0.4 kg CO2e, traditional variety, grown locally in July, 1 kg bunch
+Tomatoes (average), 9.1 kg CO2e
+Tomatoes (out-of-season), 50 kg CO2e
+Trout (canned), 5 kg CO2e, canned, 1 kg portion
+Trout (fresh), 6.9 kg CO2e (fresh) from the store or frozen, 1 kg portion
+Water (bottled), 0.160 kg CO2e, 500mL / 16oz. sized bottle, average distribution distance
+Water (tap), 0.06 kg CO2e per cup
+Wine, bottle, 1.04 kg CO2e average
